@@ -1,0 +1,49 @@
+{
+  "ruta_procesados": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/PROCESADOS",
+  
+    "areas": {
+     
+      "Ambulatorio": {
+        "ruta_base": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/AMBULATORIO",
+        "ruta_renombre": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/RENOMBRE_ORIGINAL_AMBULATORIO",
+        "ruta_revision": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/REVISION_ORIGINAL_AMBULATORIO",
+        "ruta_renombre_reglas": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/RENOMBRE_REGLAS_AMBULATORIO",
+        "ruta_revision_reglas": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/REVISION_REGLAS_AMBULATORIO",
+        "excel_path": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/RenombreIESS_AMBULATORIO.xlsx"
+      },
+      "Hospitalizacion": {
+        "ruta_base": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/HOSPITALIZACION",
+        "ruta_renombre": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/RENOMBRE_ORIGINAL_HOSPITALIZACION",
+        "ruta_revision": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/REVISION_ORIGINAL_HOSPITALIZACION",
+        "ruta_renombre_reglas": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/RENOMBRE_REGLAS_HOSPITALIZACION",
+        "ruta_revision_reglas": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/REVISION_REGLAS_HOSPITALIZACION",
+        "excel_path": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/RenombreIESS_HOSPITALIZACION.xlsx"
+      },
+      "Hospital del Día": {
+        "ruta_base": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/HOSPITAL_DEL_DIA",
+        "ruta_renombre": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/RENOMBRE_ORIGINAL_HOSPITAL_DEL_DIA",
+        "ruta_revision": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/REVISION_ORIGINAL_HOSPITAL_DEL_DIA",
+        "ruta_renombre_reglas": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/RENOMBRE_REGLAS_HOSPITAL_DEL_DIA",
+        "ruta_revision_reglas": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/REVISION_REGLAS_HOSPITAL_DEL_DIA",
+        "excel_path": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/RenombreIESS_HOSPITAL_DEL_DIA.xlsx"
+      },
+      "Trasplante": {
+        "ruta_base": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/TRASPLANTE",
+        "ruta_renombre": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/RENOMBRE_ORIGINAL_TRASPLANTE",
+        "ruta_revision": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/REVISION_ORIGINAL_TRASPLANTE",
+        "ruta_renombre_reglas": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/RENOMBRE_REGLAS_TRASPLANTE",
+        "ruta_revision_reglas": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/REVISION_REGLAS_TRASPLANTE",
+        "excel_path": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/RenombreIESS_TRASPLANTE.xlsx"
+      },
+      "Emergencia": {
+        "ruta_base": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/EMERGENCIA",
+        "ruta_renombre": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/RENOMBRE_ORIGINAL_EMERGENCIA",
+        "ruta_revision": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/REVISION_ORIGINAL_EMERGENCIA",
+        "ruta_renombre_reglas": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/RENOMBRE_REGLAS_EMERGENCIA",
+        "ruta_revision_reglas": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/REVISION_REGLAS_EMERGENCIA",
+        "excel_path": "C:/Users/anths/Documents/Pruebas/EJECUCION_RENOMBRE_IESS/RenombreIESS_EMERGENCIA.xlsx"
+      }
+    }
+   
+  }
+  
